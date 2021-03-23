@@ -1,0 +1,166 @@
+first_logger - INFO - main - <module> - 6 - Start 2021-03-12 18:26:03.618930
+first_logger - INFO - main - <module> - 6 - Start 2021-03-15 20:57:51.734526
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 24 - No database E:\Moje\Python szkolenie\Python zaawansowany\W1_cwiczenia\Project\clinic.db
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 1 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 24 - No database E:\Moje\Python szkolenie\Python zaawansowany\W1_cwiczenia\Project\clinic.db
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 2 try to connect
+first_logger - ERROR - Connection_retry - wrapper - 24 - No database E:\Moje\Python szkolenie\Python zaawansowany\W1_cwiczenia\Project\clinic.db
+first_logger - ERROR - db_handler - close_conn - 33 - No connection to close
+first_logger - INFO - main - <module> - 6 - Start 2021-03-15 20:58:46.416155
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - main - <module> - 6 - Start 2021-03-15 20:59:35.244431
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 28 - Added : ['.idea', 'Antarctica.csv', 'app_logs.log', 'clinic.db', 'Connection_retry.py', 'CustomLogger.py', 'db_executer.py', 'db_handler.py', 'Diagnostica.csv', 'Hospital.csv', 'main.py', 'new_patients.csv', 'project-data.txt', 'project_exceptions.py', 'send_sms.py', '__init__.py', '__pycache__']
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - main - <module> - 44 - Removed [('.idea', None), ('Antarctica.csv', None), ('app_logs.log', None), ('clinic.db', None), ('Connection_retry.py', None), ('CustomLogger.py', None), ('db_executer.py', None), ('db_handler.py', None), ('Diagnostica.csv', None), ('Hospital.csv', None), ('main.py', None), ('new_patients.csv', None), ('project-data.txt', None), ('project_exceptions.py', None), ('send_sms.py', None), ('__init__.py', None), ('__pycache__', None)]
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 28 - Added : ['.idea', 'Antarctica.csv', 'app_logs.log', 'clinic.db', 'Connection_retry.py', 'CustomLogger.py', 'db_executer.py', 'db_handler.py', 'Diagnostica.csv', 'Hospital.csv', 'main.py', 'new_patients.csv', 'project-data.txt', 'project_exceptions.py', 'send_sms.py', '__init__.py', '__pycache__']
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - main - <module> - 44 - Removed [('.idea', None), ('Antarctica.csv', None), ('app_logs.log', None), ('clinic.db', None), ('Connection_retry.py', None), ('CustomLogger.py', None), ('db_executer.py', None), ('db_handler.py', None), ('Diagnostica.csv', None), ('Hospital.csv', None), ('main.py', None), ('new_patients.csv', None), ('project-data.txt', None), ('project_exceptions.py', None), ('send_sms.py', None), ('__init__.py', None), ('__pycache__', None)]
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 28 - Added : ['patients_new.txt']
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - ERROR - db_handler - execute_sql - 27 - Error UNIQUE constraint failed: patients.id
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 44 - Removed ['patients_new.txt']
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 28 - Added : ['patients_new.txt']
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 28 - Added : ['patients_neww.txt']
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
+first_logger - INFO - Connection_retry - wrapper - 14 - It is my 0 try to connect
+first_logger - INFO - Connection_retry - wrapper - 23 - Connection established
+first_logger - INFO - main - <module> - 41 - Nothing was added
+first_logger - INFO - main - <module> - 46 - Nothing was removed
